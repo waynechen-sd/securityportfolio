@@ -32,6 +32,6 @@ In a severe automated download abuse scenario on a manufacturing website, the at
 #### 02. 自動化下載濫用緩解
 在製造業網站面臨嚴重的自動化下載濫用情境中，由於攻擊手法隱蔽，惡意來源透過 IP 快速輪換的方式閃避防火牆與站台應用程式異常規則觸發告警。內建的防護規則無法有效辨識惡意機器人與正常使用者，導致常規的頻率限制 (Rate Limiting) 無法發揮作用。我透過深度分析流量行為與 TLS/JA4 指紋特徵，並且以 APP端、使用者端模擬下載行為以及標的物為出發點，重新設計了防護邏輯，將規則以路徑、請求來源以及頻率的方式分層分散執行過濾。在保留正常業務流量、零誤殺的前提下，成功緩解了約 85% 的惡意自動化濫用行為。
 
-![去識別化的流量趨勢前後對照](../assets/images/supporting/traffic-before-after.png)
+![De-identified](../assets/images/illustrations/workflow-cycle-alternative.jpeg)
 
 *去識別化佐證圖；已移除客戶名稱、識別資訊與機密設定細節。*
