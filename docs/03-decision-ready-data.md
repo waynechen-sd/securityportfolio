@@ -28,8 +28,6 @@ The public artifact records the decision boundary: only documentation that can b
 #### 03. Large-Scale Technical Selection Decision Materials
 During large-scale technical selection processes, key evaluation criteria and items pending confirmation are often scattered across countless emails and meeting minutes. This leads to a lack of concrete verification basis before the final procurement decision, making it impossible to pinpoint "what the user actually wants." Putting myself in the client's shoes, I helped the team transform these divergent requirements into evidence checklists, testing assumptions, and delivery checkpoints understandable to the buyer. This ensured that before the executive level gave final approval, all expected outcomes could be accurately checked and verified.
 
-![De-identified](../assets/images/illustrations/poc-delivery-alternative.jpeg)
-
 ## 中文
 
 ### 解決方案思維
@@ -47,5 +45,7 @@ During large-scale technical selection processes, key evaluation criteria and it
 
 #### 03. 大型技術評選決策材料
 在大型技術評選過程中，關鍵的評估標準與待確認項目常散落於無數的信件與會議紀錄中，導致最終採購決策前缺乏具體的查核依據且無法準確定位「使用者究竟要什麼？」。我協助團隊將這些發散的需求已換位思考的角度，轉化為甲方可理解的佐證清單、測試假設與交付檢查點。這確保了在決策層拍板前，所有的預期結果都能被精準核對與驗證。
+
+![De-identified](../assets/images/illustrations/poc-delivery-alternative.jpeg)
 
 *去識別化佐證圖；已移除客戶名稱、識別資訊與機密設定細節。*
