@@ -1,3 +1,5 @@
+![Digital operations architecture](../assets/images/illustrations/workflow-cycle-alternative.jpeg)
+
 ## English
 
 ### Practical Starting Point
@@ -19,8 +21,6 @@ Any incorrect content update or configuration could paralyze the transaction por
 
 ![Digital operations website example](../assets/images/supporting/digital-operations-site.jpeg)
 
-*Supporting artifacts from the family e-commerce brand. Customer and order data are not shown.*
-
 ## 中文
 
 ### 實務起點
@@ -38,8 +38,4 @@ Any incorrect content update or configuration could paralyze the transaction por
 #### 03. 可用性 (Availability)：維繫商業命脈
 任何錯誤的內容更新或設定，都可能導致交易入口停擺，直接中斷營收。我深刻體認到網站身為客戶接觸品牌與完成交易的入口，其可用性影響的是整體商業命脈，而不單單只是 IT 技術問題。因此，我導入了嚴謹的變更紀律，確保服務能持續穩定運作。
 
-![數位營運架構](../assets/images/supporting/digital-operations-architecture.jpeg)
 
-![家族電商品牌網站示意](../assets/images/supporting/digital-operations-site.jpeg)
-
-*家族電商品牌的佐證素材；未呈現客戶與訂單資料。*
