@@ -107,3 +107,16 @@ section { padding: clamp(4rem, 8vw, 7rem) 0; }
   .model-grid { grid-template-columns: 1fr; }
   .footer-inner { flex-direction: column; }
 }
+
+/* Keep bilingual case links mutually exclusive */
+html[data-lang="en"] .case-link.language-zh {
+  display: none;
+}
+
+html[data-lang="zh"] .case-link.language-en {
+  display: none;
+}
+
+html[data-lang="zh"] .case-link.language-zh {
+  display: inline-flex;
+}
