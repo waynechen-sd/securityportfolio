@@ -28,7 +28,7 @@ The public artifact records the decision boundary: only documentation that can b
 #### 03. Large-Scale Technical Selection Decision Materials
 During large-scale technical selection processes, key evaluation criteria and items pending confirmation are often scattered across countless emails and meeting minutes. This leads to a lack of concrete verification basis before the final procurement decision, making it impossible to pinpoint "what the user actually wants." Putting myself in the client's shoes, I helped the team transform these divergent requirements into evidence checklists, testing assumptions, and delivery checkpoints understandable to the buyer. This ensured that before the executive level gave final approval, all expected outcomes could be accurately checked and verified.
 
-![De-identified](..assets/images/illustrations/poc-delivery-alternative.jpeg)
+![De-identified](../assets/images/illustrations/poc-delivery-alternative.jpeg)
 
 ## 中文
 
