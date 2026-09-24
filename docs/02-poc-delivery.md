@@ -1,3 +1,5 @@
+![De-identified](../assets/images/illustrations/evidence-correlation-alternative.jpeg)
+
 ## English
 
 ### Solution Mindset
@@ -31,7 +33,5 @@ While leading a large-scale enterprise DNS architecture validation involving mul
 
 #### 02. 大型專案分階段導入規劃
 在主導一項跨越多方技術依賴的大型企業 DNS 架構驗證時，專案一度陷入停滯：工程團隊卡在測試條件不明確，且關鍵責任全散落在其他供應商與內部團隊的對話中。我立刻要求暫停無效的技術發散，以客戶視角重新準備技術評選與交接資產，同時預備我方的施工紀錄表與技術邊界劃分。我針對該驗證制定了分階段的導入計畫（涵蓋部署內容、預期效益）與十項關鍵查核點，將部署假設與驗收標準具象化。這份清晰的交接資產確保了「零脈絡」的接手者也能按表操課，實現無縫交接。
-
-![去識別化的 POC 驗證矩陣](../assets/images/supporting/poc-validation-matrix.png)
 
 *去識別化佐證圖；已移除客戶名稱、識別資訊與機密設定細節。*
